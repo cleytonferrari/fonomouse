@@ -1,0 +1,29 @@
+<GRAMMAR LANGID="809">
+
+  <!-- "Constant" definitions -->
+
+  <DEFINE>
+    <ID NAME="RID_start" VAL="1"/>
+    <ID NAME="PID_chosencolour" VAL="2"/>
+    <ID NAME="PID_colourvalue" VAL="3"/>
+  </DEFINE>
+
+  <!-- Rule definitions -->
+
+  <RULE NAME="start" ID="RID_start" TOPLEVEL="ACTIVE">
+    <O>colour</O>
+    <RULEREF NAME="colour" PROPNAME="chosencolour" PROPID="PID_chosencolour" />
+    <O>please</O>
+  </RULE>
+
+  <RULE NAME="colour">
+    <L PROPNAME="colourvalue" PROPID="PID_colourvalue">
+      <P VAL="1">red</P>
+      <P VAL="2">blue</P>
+      <P VAL="3">green</P>
+      <P VAL="4">yellow</P>
+      <P VAL="5">gray</P>
+    </L>
+  </RULE>
+</GRAMMAR>
+

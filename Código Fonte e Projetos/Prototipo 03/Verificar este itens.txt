@@ -1,0 +1,3 @@
+Checar cor de fontes, mudar tudo pra cores nao windows
+
+checar tamanho de titulos repetidos

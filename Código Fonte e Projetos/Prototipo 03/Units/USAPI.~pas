@@ -1,0 +1,36 @@
+{
+ ****************************************************
+ * PROJETO:                                         *
+ *                FonoMouse                         *
+ *   Facilitador do Uso de Computador para          *
+ *   portadores de necessidades especiais.          *
+ *                                                  *
+ *           Projeto  de  monografia  apresentada   *
+ * ao Instituto de Ensino Superior  de  Rondônia,   *
+ * como parte  dos  requisitos   para a conclusão   *
+ * do curso de graduação em Sistema de Informação.  *
+ *                                                  *
+ * AUTOR: Cleyton Cesar Ferrari                     *
+ * DATA: Novembro/2004                              *
+ * ORIENTADOR: Ms. Marcelo Douglas                  *
+ * INSTITUIÇÃO:                                     *
+ *    FAAr Faculdades Associadas de Ariquemes       *
+ ***************************************************
+ }
+
+unit USAPI;
+interface
+
+const
+  SPDUI_EngineProperties = 'EngineProperties';
+  SPDUI_AddRemoveWord = 'AddRemoveWord';
+  SPDUI_UserTraining = 'UserTraining';
+  SPDUI_MicTraining = 'MicTraining';
+  SPDUI_RecoProfileProperties = 'RecoProfileProperties';
+  SPDUI_AudioProperties = 'AudioProperties';
+  SPDUI_AudioVolume = 'AudioVolume';
+
+implementation
+
+end.
+

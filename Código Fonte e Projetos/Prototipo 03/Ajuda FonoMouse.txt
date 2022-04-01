@@ -1,0 +1,35 @@
+   AJUDA FonoMouse
+------------------
+
+O que eu Posso dizer?
+- [ Esquerda ] - Move o cursor do mouse para a esquerda.
+- [ Direita ] - Move o cursor do mouse para a direita.
+- [ Baixo ] - Move o cursor do mouse para baixo.
+- [ Cima ] - Move o cursor do mouse para cima.
+- [ Apertar Direito ] - Dá um clique com o botão direito do Mouse.
+- [ Apertar Esquerdo ] - Dá um clique com o botão esquerdo do mouse.
+- [ Segura Direito ] - Mantém o botão direito do mouse pressionado.
+- [ Segura Esquerdo ] - Mantém o botão esquerdo do mouse pressionado.
+- [ Liberar Direito ] - Libera o botão direito do mouse.
+- [ Liberar Esquerdo ] - Libera o botão esquerdo do mouse.
+- [ Duplo Direito ] - Dá um duplo clique com o botão direito.
+- [ Duplo Esquerdo ] - Dá um duplo clique com o botão esquerdo.
+- [ Ok ] - Para a movimentação do mouse.
+- [ Modo Continuo ] - Muda a movimentação do mouse para o modo continuo.
+- [ Modo Salto ] - Muda a movimentação do mouse para o modo Salto.
+
+Painel de Configurações
+- Configurar Mouse
+--- Modo Continuo - O mouse vai deslizando na tela. O Valor especifica a velocidade da movimentação do mouse.
+--- Modo Salto - O mouse vai saltando na tela. O valor especifica a distância do Salto do mouse na tela.
+
+- Configurar Grade
+--- Configura as especificações da Grade. Seleciona a cor da grade.
+
+- Configurar Voz/Microfone
+--- Faz o treinamento da voz do usuário.
+
+- Configurar Microfone
+--- configura o microfone a ser utilizado. 
+
+
